@@ -1,4 +1,4 @@
-package org.tnsif.introduction;
+package org.tnsif.operators;
 
 public class BitwiseOperatorDemo {
 public static void main (String [] args) {
